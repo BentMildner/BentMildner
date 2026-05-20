@@ -10,14 +10,14 @@ Beyond technology, I bring discipline, teamwork, and a high-performance mindset 
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-# 🌳 Comparative Evaluation of Tree Crown Detection Models
+### 🌳 Comparative Evaluation of Tree Crown Detection Models
 Bachelor Thesis — Applied Computer Vision & Geospatial AI
 
 Research project evaluating modern object detection paradigms for municipal tree crown detection on high-resolution aerial orthophotos in collaboration with the city of Lüneburg.
 
-# Research Focus
+### Research Focus
 Comparative evaluation of:
 - Foundation Models (GroundingDINO + SAM / SamGeo)
 - CNN-based detectors (DeepForest)
@@ -25,7 +25,7 @@ Comparative evaluation of:
 
 The study investigates model performance, robustness, and transferability for urban vegetation analysis on 10 cm orthophotos.
 
-# Highlights
+### Highlights
 - Built reproducible AI evaluation pipelines for geospatial imagery
 - Unified multiple detection frameworks behind a shared inference API
 - Implemented tile-based and map-based evaluation metrics (RF1@75, mAP, Precision/Recall/F1)
@@ -33,18 +33,18 @@ The study investigates model performance, robustness, and transferability for ur
 - Designed reproducible experiment tracking using Hydra configuration management
 - Optimized workflows for GPU-intensive model fine-tuning
 
-# Tech Stack
+### Tech Stack
 `Python` `PyTorch` `DINO` `GroundingDINO` `SAM` `DeepForest`
 `Hydra` `GeoPandas` `Rasterio` `Docker` `Jupyter`
 `Computer Vision` `Geospatial AI`
 
-# Infrastructure
+### Infrastructure
 - NVIDIA DGX Spark
 - Multi-architecture Docker environments
 - Git LFS for annotation management
 - Modular experiment pipelines
 
-# Repository Structure
+### Repository Structure
 - Modular model pipelines
 - Unified evaluation framework
 - Reproducible experiment configurations
@@ -55,22 +55,22 @@ The study investigates model performance, robustness, and transferability for ur
 
 ---
 
-# 🤖 AI PDF Chat Interface
+## 🤖 AI PDF Chat Interface
 LLM-powered web application for querying sustainability reports and extracting structured insights from PDF documents.
 
 Developed collaboratively with Marcel Seibt and Felix Soltau.
 
-# Highlights
+### Highlights
 - Built an interactive PDF-based AI chat interface
 - Integrated LLM workflows for contextual document Q&A
 - Enabled structured JSON export of extracted sustainability metrics
 - Developed fullstack architecture using React + Flask
 - Containerized deployment with Docker Compose
 
-# Tech Stack
+### Tech Stack
 `Python` `Flask` `React` `Docker` `LLMs` `LangChain` `ChromaDB` `OpenAI API`
 
-# Features
+### Features
 - PDF upload & processing
 - Context-aware chat interface
 - PDF viewer integration
@@ -81,23 +81,23 @@ Developed collaboratively with Marcel Seibt and Felix Soltau.
 
 ---
 
-# 🌿 AI Pipeline for Urban Vegetation Analysis
+## 🌿 AI Pipeline for Urban Vegetation Analysis
 Research-focused computer vision pipeline for automated urban vegetation detection and segmentation.
 
-# Highlights
+### Highlights
 - Applied GroundingDINO + Segment Anything (SAM)
 - Built scalable AI inference workflows
 - Processed and evaluated real-world urban datasets
 - Focused on reproducibility and pipeline automation
 
-# Tech Stack
+### Tech Stack
 `Python` `PyTorch` `GroundingDINO` `Segment Anything` `OpenCV` `Docker`
 
 🔗 https://github.com/BentMildner/AITreeCounting.git
 
 ---
 
-# 🧠 Areas of Interest
+## 🧠 Areas of Interest
 
 - DevOps & Platform Engineering
 - AI Infrastructure
@@ -108,12 +108,12 @@ Research-focused computer vision pipeline for automated urban vegetation detecti
 
 ---
 
-# 🏐 Beyond Tech
+## 🏐 Beyond Tech
 
 Outside of engineering, I compete as a semi-professional volleyball athlete in the 2nd German Volleyball Bundesliga. Competitive sports taught me discipline, resilience, teamwork, and performing under pressure — skills I bring into every technical project and collaboration.
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/bent-mildner
