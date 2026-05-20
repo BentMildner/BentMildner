@@ -79,6 +79,7 @@ Developed collaboratively with Marcel Seibt and Felix Soltau.
 
 🔗 https://github.com/felix-sol/Ai-Application
 
+![Uploading image.png…]()
 
 
 ---
