@@ -77,7 +77,9 @@ Developed collaboratively with Marcel Seibt and Felix Soltau.
 - JSON export functionality
 - Multi-container Docker deployment
 
-🔗 (https://github.com/felix-sol/Ai-Application)
+🔗 https://github.com/felix-sol/Ai-Application
+
+
 
 ---
 
@@ -94,6 +96,8 @@ Research-focused computer vision pipeline for automated urban vegetation detecti
 `Python` `PyTorch` `GroundingDINO` `Segment Anything` `OpenCV` `Docker`
 
 🔗 https://github.com/BentMildner/AITreeCounting.git
+<img width="1599" height="860" alt="image" src="https://github.com/user-attachments/assets/074ce04d-c8f2-4cfc-962e-b0b8928b76c9" />
+
 
 ---
 
